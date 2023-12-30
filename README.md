@@ -1,2 +1,2 @@
 # vetsintech
-this is our vetsintech developer
+this is our vetsintech developer repository
